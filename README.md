@@ -1,4 +1,6 @@
-###Hi there 👋
+Hi there 👋
+
+My name is Hassane, and I'm an MIT trained computer scientist interested in all things Full Stack!
 
 - I'm currently workin on ...
 - I'm currently learning ...
